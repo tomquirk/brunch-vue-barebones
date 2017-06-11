@@ -1,8 +1,8 @@
-# Brunch Raw Vue
+# Brunch Vue Barebones
 
-A _raw_ skeleton with Vue for Brunch.
+A _barebones_ skeleton with Vue for Brunch - minimal dependencies!
 
-Unlike other skeletons with Vue, `brunch-raw-vue` is based on the official scaffold provided by the Vue.js core team ([https://github.com/vuejs/vue-cli](vue-cli)). The only dependencies are `vue` and `vue-router`; configure it how you like!
+Unlike other skeletons with Vue, `brunch-vue-barebones` is based on the official scaffold provided by the Vue.js core team ([https://github.com/vuejs/vue-cli](vue-cli)). The only dependencies are `vue` and `vue-router`; configure it how you like!
 
 Thanks to @nblackburn for his work on [https://github.com/nblackburn/vue-brunch](vue-brunch)
 

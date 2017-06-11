@@ -1,6 +1,6 @@
 {
-  "name": "brunch-raw-vue",
-  "description": "A Raw Vue Skeleton for Brunch",
+  "name": "brunch-vue-barebones",
+  "description": "A Barebones Vue Skeleton for Brunch",
   "version": "0.0.1",
   "scripts": {
     "start": "brunch watch --server",
