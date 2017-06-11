@@ -2,9 +2,9 @@
 
 A _barebones_ skeleton with Vue for Brunch - minimal dependencies!
 
-Unlike other skeletons with Vue, `brunch-vue-barebones` is based on the official scaffold provided by the Vue.js core team ([https://github.com/vuejs/vue-cli](vue-cli)). The only dependencies are `vue` and `vue-router`; configure it how you like!
+Unlike other skeletons with Vue, `brunch-vue-barebones` is based on the official scaffold provided by the Vue.js core team ([vue-cli](https://github.com/vuejs/vue-cli)). The only dependencies are `vue` and `vue-router`; configure it how you like!
 
-Thanks to @nblackburn for his work on [https://github.com/nblackburn/vue-brunch](vue-brunch)
+Thanks to @nblackburn for his work on [vue-brunch](https://github.com/nblackburn/vue-brunch)
 
 ## Installation
 
@@ -27,4 +27,4 @@ Clone this repo manually
 
 ## TODO
 
-* Add support for Hot Module Reloading with [https://github.com/brunch/hmr-brunch](hmr-brunch)
+* Add support for Hot Module Reloading with [hmr-brunch](https://github.com/brunch/hmr-brunch)
