@@ -24,3 +24,7 @@ Clone this repo manually
     * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
     * Place static files you want to be copied from `app/assets/` to `public/`.
     * [Brunch site](http://brunch.io), [Getting started guide](https://github.com/brunch/brunch-guide#readme)
+
+## TODO
+
+* Add support for Hot Module Reloading with [https://github.com/brunch/hmr-brunch](hmr-brunch)
