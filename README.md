@@ -4,11 +4,9 @@ A _barebones_ Brunch skeleton for [Vue.js](https://vuejs.org/) - minimal depende
 
 Unlike other skeletons with Vue, `brunch-vue-barebones` is based on the official scaffold provided by the Vue.js core team ([vue-cli](https://github.com/vuejs/vue-cli)). The only dependencies are `vue` and `vue-router`; configure it how you like!
 
-Thanks to @nblackburn for his work on [vue-brunch](https://github.com/nblackburn/vue-brunch)
+Thanks to [https://github.com/nblackburn](@nblackburn) for his work on [vue-brunch](https://github.com/nblackburn/vue-brunch)
 
 ## Installation
-
-### Using Brunch
 
 1. Install Brunch globally
 
@@ -16,7 +14,7 @@ Thanks to @nblackburn for his work on [vue-brunch](https://github.com/nblackburn
 npm install -g brunch
 ```
 
-1. Create a new Brunch project using _this_ skeleton
+2. Create a new Brunch project using _this_ skeleton
 
 ```bash
 brunch new -s vue
